@@ -33,6 +33,9 @@ A passionate MERN stack developer and Electronics & Telecommunication student.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+  <img src="https://img.shields.io/badge/NLP-2E4053?style=for-the-badge&logo=google&logoColor=white" />
+
 
 </p>
 
