@@ -7,7 +7,7 @@ A passionate MERN stack developer and Electronics & Telecommunication student.
 ---
 
 ## 🔭 I’m currently working on:
-- [Data Science/ Data Minning](#)
+- [Machine Learning/ Data Science/ Python](#)
 - [Fullstack E-Commerce Website](#)
 
 ---
