@@ -45,17 +45,7 @@
 
 ---
 
-## 🎮 Animated Snake - GitHub Contribution Graph
 
-Watch the animated snake slither across your contribution graph! The snake visualizes your GitHub contributions in an animated visualization:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/dist/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph"/>
-</div>
-
-✨ **This animation automatically updates daily with your latest contributions!**
-
----
 
 ## 🎯 Featured Projects
 
