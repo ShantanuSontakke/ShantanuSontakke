@@ -36,6 +36,13 @@
 </div>
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
 
 ## 📈 More Stats
 
