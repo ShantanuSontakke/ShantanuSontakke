@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sshantanu._?igsh=MTk3cDFqOHMzcHNpYQ==) [![Linked[...]
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=java[...]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=j[...]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShantanuSontakke&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ShantanuSontakke&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ## 🎮 Contribution Snake Game
-![snake gif](https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/dist/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShantanuSontakke&icon=0&color=0)](https://visitcount.itsvg.in)
