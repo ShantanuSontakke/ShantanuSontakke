@@ -36,7 +36,7 @@
 </div>
 
 ---
-### 🐍 Contribution Snake
+### 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/github-contribution-grid-snake-dark.svg"/>
