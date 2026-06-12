@@ -1,5 +1,7 @@
 name: Generate snake game
-
+permissions:
+  contents: write
+  actions: write
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -26,5 +28,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
