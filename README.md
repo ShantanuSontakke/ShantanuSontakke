@@ -37,27 +37,23 @@
 
 ---
 
-## 🎮 Interactive Snake Game - Contribution Counter
-
-Play the snake game below! Your contribution graph is converted into an interactive game:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/dist/github-contribution-grid-snake.svg" alt="Snake Game on Contributions"/>
-</div>
-
-### How to Play:
-- Use **Arrow Keys** ⬆️⬇️⬅️➡️ or **WASD** to move the snake
-- Collect food to grow 🐍
-- Avoid hitting walls and yourself
-- Based on your GitHub contribution graph
-
----
-
 ## 📈 More Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantanuSontakke&theme=react-dark&hide_border=false"/>
 </div>
+
+---
+
+## 🎮 Animated Snake - GitHub Contribution Graph
+
+Watch the animated snake slither across your contribution graph! The snake visualizes your GitHub contributions in an animated visualization:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/dist/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph"/>
+</div>
+
+✨ **This animation automatically updates daily with your latest contributions!**
 
 ---
 
