@@ -19,7 +19,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShantanuSontakke&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-## 🎮 Contribution Snake Game
+## 🎮 Snake Game
 ![snake gif](https://raw.githubusercontent.com/ShantanuSontakke/ShantanuSontakke/output/dist/github-contribution-grid-snake.svg)
 
 ---
